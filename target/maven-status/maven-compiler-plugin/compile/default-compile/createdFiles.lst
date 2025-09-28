@@ -1,0 +1,5 @@
+com\example\springxml\MainApp.class
+com\example\springxml\ElectricActuator.class
+com\example\springxml\Actuator.class
+com\example\springxml\HydraulicActuator.class
+com\example\springxml\Mechanism.class
